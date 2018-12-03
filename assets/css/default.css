@@ -37,3 +37,10 @@
   .price-color{
       color: #a35003;
   }
+
+  .badge-success{
+      background-color: red !important;
+  }
+  .total-price{
+      margin: .5em .5em;
+  }
