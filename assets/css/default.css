@@ -11,3 +11,29 @@
     height: auto;
     margin: .3em .5em;
 }
+
+.nav-icon {
+    height: 30px;
+    filter: invert(1);
+    -webkit-filter: invert(1)
+  }
+
+  .bg-dark{
+      background-color: #a35003 !important;
+  }
+
+  .text-unmuted{
+      color: white !important;
+  }
+  
+  .bg-custom{
+      background-color: #fff5ed;
+  }
+
+  section{
+      background-color: #ffe9d8 !important;
+  }
+
+  .price-color{
+      color: #a35003;
+  }
