@@ -1,0 +1,13 @@
+.head-icon{
+    width: 20px;
+    height: auto;
+    margin-right: 0.5em;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.so-me_icon{
+    width: 1.2em;
+    height: auto;
+    margin: .3em .5em;
+}
